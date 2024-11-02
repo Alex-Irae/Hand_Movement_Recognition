@@ -1,5 +1,8 @@
 # Hand Movement Recognition and Robotic Finger Replication
 
+# Tianjin University - BCI WorkShop - 
+# Course : Advances of Brain-computer interfaces 
+# Professors : Dr.Uriel & Dr.Tareq
 ## Overview
 
 This project involves creating a robotic finger with three phalanges using Autodesk Inventor, recording movement data using flexion sensors and a glove, and developing a deep neural network (DNN) in MATLAB to analyze and classify these movements. The classified movements are then replicated in real-time using an Arduino board and motor to control the robotic finger.
